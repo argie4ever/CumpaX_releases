@@ -52,7 +52,7 @@ Cumpa X es una herramienta de código abierto y distribución gratuita para edit
 * **Arquitectura:** Binario universal nativo para **Apple Silicon (M1/M2/M3/M4)** y procesadores **Intel**.
 
 ### Instalación
-1. Descarga el instalador `Cumpa-X-1.0.0-macOS.dmg` desde los enlaces inferiores o la sección de [Releases](https://github.com/arielledesmabecerra/Cumpa_X_Releases/releases/latest).
+1. Descarga el instalador `Cumpa_X_1.1.0_macOS.zip` desde los enlaces inferiores o la sección de [Releases](https://github.com/arielledesmabecerra/Cumpa_X_Releases/releases/latest).
 2. Arrastra `Cumpa X.app` a tu carpeta de **Aplicaciones**.
 3. **Primera ejecución:** Haz clic derecho (o `Control + Clic`) sobre la aplicación y selecciona **Abrir** para confirmar la excepción de seguridad de macOS.
 
