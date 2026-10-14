@@ -90,7 +90,7 @@ Cumpa X es una herramienta de código abierto y distribución gratuita para edit
 
 | Plataforma | Archivo | Arquitectura |
 | :--- | :--- | :--- |
-| **macOS** | [**`Cumpa-X-1.0.0-macOS.dmg`**](https://github.com/arielledesmabecerra/Cumpa_X_Releases/releases/latest/download/Cumpa-X-1.0.0-macOS.dmg) | Apple Silicon & Intel (Universal) |
+| **macOS** | [**`Cumpa_X_v1.0.0_macOS.zip`**](https://github.com/arielledesmabecerra/Cumpa_X_Releases/releases/latest/download/Cumpa_X_v1.0.0_macOS.zip) | Apple Silicon & Intel (Universal) |
 
 ---
 
