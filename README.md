@@ -5,7 +5,7 @@
 
 # Cumpa X
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge)](https://github.com/arielledesmabecerra/Cumpa_X_Releases/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v1.1.0-blue?style=for-the-badge)](https://github.com/arielledesmabecerra/Cumpa_X_Releases/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-macOS%2014.0%2B-000000?style=for-the-badge&logo=apple)](https://github.com/arielledesmabecerra/Cumpa_X_Releases/releases/latest)
 [![Apple Silicon & Intel](https://img.shields.io/badge/Architecture-Universal%20Binary-gray?style=for-the-badge&logo=apple)](https://github.com/arielledesmabecerra/Cumpa_X_Releases/releases/latest)
 [![Cafecito](https://img.shields.io/badge/Cafecito-Argentina-blue?style=for-the-badge&logo=coffee)](https://cafecito.app/arielledesmabecerra)
