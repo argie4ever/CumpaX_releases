@@ -5,7 +5,7 @@
 
 # Cumpa X
 
-[![Release](https://img.shields.io/badge/Release-v1.2.0-blue?style=for-the-badge)](https://github.com/arielledesmabecerra/Cumpa_X_Releases/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v1.3.0-blue?style=for-the-badge)](https://github.com/arielledesmabecerra/Cumpa_X_Releases/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-macOS%2014.0%2B-000000?style=for-the-badge&logo=apple)](https://github.com/arielledesmabecerra/Cumpa_X_Releases/releases/latest)
 [![Apple Silicon & Intel](https://img.shields.io/badge/Architecture-Universal%20Binary-gray?style=for-the-badge&logo=apple)](https://github.com/arielledesmabecerra/Cumpa_X_Releases/releases/latest)
 [![Cafecito](https://img.shields.io/badge/Cafecito-Argentina-blue?style=for-the-badge&logo=coffee)](https://cafecito.app/arielledesmabecerra)
@@ -90,11 +90,11 @@ Cumpa X es una herramienta de código abierto y distribución gratuita para edit
 
 | Plataforma | Archivo | Arquitectura |
 | :--- | :--- | :--- |
-| **macOS** | [**`Cumpa_X_v1.2.0_macOS.zip`**](https://github.com/argie4ever/CumpaX_releases/releases/download/v1.2.0/Cumpa_X_v1.2.0_macOS.zip) | Apple Silicon & Intel (Universal) |
+| **macOS** | [**`Cumpa_X_v1.3.0_macOS.zip`**](https://github.com/argie4ever/CumpaX_releases/releases/download/v1.3.0/Cumpa_X_v1.3.0_macOS.zip) | Apple Silicon & Intel (Universal) |
 
 ---
 
 ## 📖 Documentación / Documentation
 
 Consulta la guía operativa completa paso a paso incluida en el repositorio:
-* 🇪🇸 [Manual de Usuario en Español (Markdown)](https://github.com/argie4ever/CumpaX_releases/releases/download/v1.2.0/manual_usuario_cumpa_x.md)
+* 🇪🇸 [Manual de Usuario en Español (Markdown)](https://github.com/argie4ever/CumpaX_releases/releases/download/v1.3.0/manual_usuario_cumpa_x.md)
